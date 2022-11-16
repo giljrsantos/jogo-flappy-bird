@@ -8,5 +8,11 @@
 
 ## Aula 02
 1. Passarinho Caindo;
-2. Troca de Tela
-3. Adicionar Tela Inicio
+2. Troca de Tela;
+3. Adicionar Tela Inicio;
+
+## Aula 03
+1. Colisão com o chão;
+2. Soco do Ryu na queda;
+3. Adicionar Tela Inicio;
+4. Passarinho Subindo;
