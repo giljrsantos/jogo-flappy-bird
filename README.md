@@ -5,3 +5,8 @@
 2. Desenhar o Flappy Bird na tela;
 3. Game Loop;
 4. Desenhar o resto do cenário;
+
+## Aula 02
+1. Passarinho Caindo;
+2. Troca de Tela
+3. Adicionar Tela Inicio
