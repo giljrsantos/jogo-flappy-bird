@@ -16,3 +16,9 @@
 2. Soco do Ryu na queda;
 3. Adicionar Tela Inicio;
 4. Passarinho Subindo;
+
+## Aula 04
+1. Chão movimentando;
+2. Animar passarinho;
+3. Adicionar Tela Inicio;
+4. Passarinho Subindo;
