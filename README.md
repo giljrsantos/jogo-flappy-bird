@@ -22,3 +22,9 @@
 2. Animar passarinho;
 3. Adicionar Tela Inicio;
 4. Passarinho Subindo;
+
+## Aula 05
+1. Desenhar Canos;
+2. Canos movimentando;
+3. Colisão com Canos;
+4. Passarinho Subindo;

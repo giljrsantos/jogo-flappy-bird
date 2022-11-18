@@ -344,9 +344,10 @@ const Telas = {
     },
     desenha() {
       planoDeFundo.desenha();
-      globais.flappyBird.desenha();
-      
       globais.chao.desenha();
+      globais.flappyBird.desenha();
+      globais.canos = criaCanos();
+      
       mensagemGetReady.desenha();
     },
     click() {
