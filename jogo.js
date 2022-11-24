@@ -408,6 +408,6 @@ window.addEventListener('click', function() {
     telaAtiva.click();
   }
 });
-
+// teste
 mudaParaTela(Telas.INICIO);
 loop();
