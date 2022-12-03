@@ -46,3 +46,5 @@ Jogo Flappy Bird desenvolvido em javaScript puro.
 <img src="./assets/screen-5.png" width="200">
 <img src="./assets/screen-6.png" width="200">
 </p>
+
+<h1 align="center">💻 Desenvolvido Por: Gilberto Júnior</h1>
